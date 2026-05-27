@@ -10,9 +10,6 @@
 - Backend AI Integration & APIs
 - Generative AI & Vector Databases
 
-### 🔹 Tech Stack
-Python • LangChain • Flask • FastAPI • FAISS • Hugging Face • MongoDB • TensorFlow • PyTorch • Scikit-learn • LangGraph • n8n
-
 ### 🔹 What I Build
 - Local LLM-powered applications
 - AI recommendation systems
