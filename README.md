@@ -5,7 +5,7 @@
 ### 🔹 Specializations
 - NLP (Natural Language Processing)
 - Retrieval-Augmented Generation (RAG)
-- LLM Applications & AI Workflows
+- LLM Applications & AI Automation Workflows
 - Semantic Search & Recommendation Systems
 - Backend AI Integration & APIs
 - Generative AI & Vector Databases
