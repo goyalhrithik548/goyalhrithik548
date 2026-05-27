@@ -1,5 +1,30 @@
-# 💫 About Me:
-I build AI systems that are practical, scalable, and product-focused.<br><br>My core expertise lies in NLP, Retrieval-Augmented Generation (RAG), semantic search, recommendation systems, and backend AI integration. I work extensively with Python, LangChain, Flask, FAISS, Hugging Face, vector databases, and modern LLM workflows to create intelligent applications that solve real-world problems.<br><br>From developing local LLM-powered recommendation platforms to engineering semantic retrieval systems for low-resource languages, I enjoy building AI products end-to-end — including embeddings, retrieval pipelines, APIs, deployment, and optimization.<br><br>I’m particularly interested in AI Engineering, Generative AI infrastructure, intelligent retrieval systems, and production-grade machine learning applications.
+## 👋 About Me
+
+🚀 AI/ML Engineer focused on building real-world AI applications, intelligent retrieval systems, and scalable backend architectures.
+
+### 🔹 Specializations
+- NLP (Natural Language Processing)
+- Retrieval-Augmented Generation (RAG)
+- LLM Applications & AI Workflows
+- Semantic Search & Recommendation Systems
+- Backend AI Integration & APIs
+- Generative AI & Vector Databases
+
+### 🔹 Tech Stack
+Python • LangChain • Flask • FastAPI • FAISS • Hugging Face • MongoDB • TensorFlow • PyTorch • Scikit-learn • LangGraph • n8n
+
+### 🔹 What I Build
+- Local LLM-powered applications
+- AI recommendation systems
+- Semantic retrieval engines
+- Intelligent chatbot workflows
+- End-to-end ML pipelines
+- Production-ready AI backend systems
+
+### 🔹 Currently Exploring
+AI Engineering • Advanced RAG Systems • Agentic AI • LLM Infrastructure • Scalable ML Deployment • GenAI
+
+💡 I enjoy transforming AI concepts into practical products that solve real-world problems.
 
 
 ## 🌐 Socials:
